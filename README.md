@@ -7,11 +7,9 @@ that is task- management application
 As an employee with a busy schedule. 
 I want to add important events to a daily planner. 
 So that I can manage my time effectively.
-```
+
 Website
 https://evgeniii7.github.io/Taskmaster-pro/
-
-```
 
 <img src="https://github.com/EvgeniiI7/Taskmaster-pro/blob/main/assets/images/scr1.png?raw=true" width="600"/>
 <img src="https://github.com/EvgeniiI7/Taskmaster-pro/blob/main/assets/images/scr2.png?raw=true" width="600"/>
