@@ -13,6 +13,6 @@ https://
 
 
 
-
-<img src="https://github.com/EvgeniiI7/Taskmaster-pro/blob/main/assets/images/scr2.png?raw=true" width="600"/>
 <img src="https://github.com/EvgeniiI7/Taskmaster-pro/blob/main/assets/images/scr1.png?raw=true" width="600"/>
+<img src="https://github.com/EvgeniiI7/Taskmaster-pro/blob/main/assets/images/scr2.png?raw=true" width="600"/>
+
