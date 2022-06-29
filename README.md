@@ -13,4 +13,4 @@ https://evgeniii7.github.io/05-Third-Party-APIs/
 
 
 
-![ScreenShot](assets/images/screenshot.png)
+![ScreenShot](https://github.com/EvgeniiI7/Taskmaster-pro/blob/main/assets/images/scr1.png?raw=true)
