@@ -15,4 +15,4 @@ https://evgeniii7.github.io/05-Third-Party-APIs/
 
 ![ScreenShot](https://github.com/EvgeniiI7/Taskmaster-pro/blob/main/assets/images/scr1.png?raw=true, high400px, width400px)
 ![ScreenShot](https://github.com/EvgeniiI7/Taskmaster-pro/blob/main/assets/images/scr2.png?raw=true)
-<img src="https://github.com/EvgeniiI7/Taskmaster-pro/blob/main/assets/images/scr1.png?raw=true" width="400"/>
+<img src="https://github.com/EvgeniiI7/Taskmaster-pro/blob/main/assets/images/scr1.png?raw=true" width="600"/>
